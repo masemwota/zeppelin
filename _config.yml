@@ -1,6 +1,6 @@
 # Plugins
-gems:
-- jekyll-sitemap
+gems: 
+  - jekyll-sitemap
 safe: false
 
 # Build Settings
@@ -21,11 +21,12 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "SJSU NSA"
+organizerAlternateName: "SJSU Nigerian Student Association"
+#organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Campus organization of students committed to sharing and spreading their love for Nigeria and its culture"
 organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/NSCC_logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -44,12 +45,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -57,28 +58,28 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "towerLawn.jpg"
-heroTitle: "Nigerian Student Coalition Conference" <typeout> 2018"
+heroTitle: "Nigerian Student Coalition Conference <typeout> 2018"
 eventDate: "March, 2018"
-typeoutTextValues: '"", "UC Berkeley", "CSU East Bay", "SJSU", "California"'
+typeoutTextValues: '"", "UC B", "SJSU", "CSU EB", "SJSU","California"'
 typeoutFallback: "Event"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About NSCC"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Come to the conferencer to hear from the current and next leaders of the country" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops about Nigerian culture and its future" }
- - {title: "Cultural Event", image: "hackathon.jpg", text: "Cultural event with traditional food, dance, and fashion show" }
+ - {title: "Conference", image: "naija_vp.jpg", text: "Come to the conferencer to hear from the current and next leaders of the country" }
+ - {title: "Workshops", image: "naija_future.jpg", text: "Full-day of workshops about Nigerian culture and its future" }
+ - {title: "Cultural Event", image: "naija_wedding.jpg", text: "Cultural event with traditional food, dance, and fashion show" }
 
 # Statistic Block
 statisticBlockImage: "color_wallpaper.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "3", specialCharacter: "+", info: "keynotes", detail: "by exceptional people"}
- - {count: "4", specialCharacter: "+", info: "workshops", detail: "master classes and breakout panels"}
- - {count: "36", specialCharacter: "", info: "hours", detail: "of a phenomenal weekend"}
+ - {count: "4", specialCharacter: "", info: "workshops", detail: "master classes and breakout panels"}
+ - {count: "36", specialCharacter: "+", info: "hours", detail: "of a phenomenal weekend"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
