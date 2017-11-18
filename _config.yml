@@ -57,7 +57,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "towerLawn.jpg"
-heroTitle: "NSCC <typeout> 2018"
+heroTitle: "Nigerian Student Coalition Conference" <typeout> 2018"
 eventDate: "March, 2018"
 typeoutTextValues: '"", "UC Berkeley", "CSU East Bay", "SJSU", "California"'
 typeoutFallback: "Event"
