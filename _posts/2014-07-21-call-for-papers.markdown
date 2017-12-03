@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "Call for Speakers"
+date:   2018-04-21 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+<!-- GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+ -->
+Nigerian Student Coalition Conference 2019 will be held 21st - 22nd of April in the vibrant tech hub that is San Jose. If you want to be part of this phenomenal event as a speaker, this is an amazing opportunity to get out in front of college students and inspire them. 
 
-#### Presenters – who should speak at the DevFest Conference?
+<!-- //#### Presenters – who should speak at the DevFest Conference? -->
 
-* developers (freelance and hired)
+#### Speakers – who should speak at the NSC Conference?
+
+* entrepeuneurs
 * companies developing software (apps, tools, frameworks etc.)
 * research institutions with Google relevant activities
 * companies, organisations and individuals using Google technologies
