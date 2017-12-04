@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "NSCC 2018"
-email: "marietta.asemwota@gmail.com"
+email: "NigerianStudentsCoalition@gmail.com"
 description: "The Nigerian Student Coalition Conference"
 baseurl: "/zeppelin"
 url: "https://masemwota.github.io"
@@ -25,7 +25,7 @@ organizerName: "SJSU NSA"
 organizerAlternateName: "SJSU Nigerian Student Association"
 #organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerDescription: "Campus organization of students committed to sharing and spreading their love for Nigeria and its culture"
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "NigerianStudentsCoalition@gmail.com"
 organizerLogo: "/img/seo/NSCC_logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -99,9 +99,9 @@ eventAddressLocality: "San Jose"
 eventAddressLocalityRegion: "CA"
 eventPostalCode: "95112"
 eventAddressCountry: "USA"
-eventStartTime: "2018-4-21T10:00"
+eventStartTime: "2018-04-21T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2018-4-22T20:00"
+eventEndTime: "2018-04-22T15:00"
 #eventPlaceCoordinates: "49.843237, 24.028751"
 eventPlaceCoordinates: "37.336325, -121.881341"
 #37.336325, -121.881341
@@ -180,8 +180,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/Nigeria", icon: "twitter"}
+ - {link: "https://plus.google.com/u/0/118073214425567705098", icon: "google-plus"}
+ - {link: "https://www.instagram.com/nsc_ig/", icon: "twitter"}
  - {link: "https://www.facebook.com/nigerianstudentcoalition/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -193,7 +193,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:NigerianStudentsCoalition@gmail.com", text: "lviv@gdg.org.ua"}
  -
   title: "FAQ"
   links:
@@ -237,14 +237,14 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "San Jose Marriott"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "DoubleTree by Hilton"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Fairmont San Jose"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hampton Inn & Suites San Jose"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hyatt Place"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
